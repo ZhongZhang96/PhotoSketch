@@ -8,7 +8,7 @@ dependencies:
 - numpy
 - scipy
 - pip:
-  - torchvision
+  - torchvision==0.2.2
   - dominate
   - visdom
   - Pillow==5.0.0
